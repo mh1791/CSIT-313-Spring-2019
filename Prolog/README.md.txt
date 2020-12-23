@@ -1,4 +1,4 @@
-We were assigned the task of giving the definitino for the following predicates:
+We were assigned the task of giving the definition for the following predicates:
 hasAsProf (Student, Professor)
 hasAsStudent(Professor, Student)
 isLearning(Student, Topic)
